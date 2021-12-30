@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Stox/static/css/main.9c71ba92.css",
+    "main.js": "/Stox/static/js/main.ada651c0.js",
+    "static/media/Medisch.JPG": "/Stox/static/media/Medisch.15ebd7f38b111184cf05.JPG",
+    "static/media/Herstellen.JPG": "/Stox/static/media/Herstellen.1486c8736a879789223f.JPG",
+    "static/media/Reizen.JPG": "/Stox/static/media/Reizen.8b44c5b4d682ea621f1f.JPG",
+    "static/media/Sport.JPG": "/Stox/static/media/Sport.bda9d38fbc38140d0323.JPG",
+    "static/media/Wandelen.JPG": "/Stox/static/media/Wandelen.1b805433bf18dc331f26.JPG",
+    "static/media/Skien.JPG": "/Stox/static/media/Skien.73aa17be10dc2aad545d.JPG",
+    "static/media/Dagelijks.JPG": "/Stox/static/media/Dagelijks.70f88f082c29122f00ed.JPG",
+    "index.html": "/Stox/index.html",
+    "main.9c71ba92.css.map": "/Stox/static/css/main.9c71ba92.css.map",
+    "main.ada651c0.js.map": "/Stox/static/js/main.ada651c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c71ba92.css",
+    "static/js/main.ada651c0.js"
+  ]
+}
